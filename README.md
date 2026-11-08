@@ -17,6 +17,8 @@ This repository is a discovery and analysis workspace for forward-deployed engin
 | 09 | [Auto assistance claim processing](use-cases/09-auto-assistance-claim-processing/README.md) | Motor claims and roadside assistance coordination |
 | 10 | [Conversational banking](use-cases/10-conversational-banking/README.md) | Customer service and self-service banking conversations |
 
+For a cross-use-case comparison of inputs and outputs, scalability, security, fairness, evaluation, and architecture, see the [FDE delivery matrix](FDE-DELIVERY-MATRIX.md).
+
 ## Workspace structure
 
 ```text
